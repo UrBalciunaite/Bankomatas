@@ -1,0 +1,15 @@
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/bin/Debug/net6.0/Bankomatas
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/bin/Debug/net6.0/Bankomatas.deps.json
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/bin/Debug/net6.0/Bankomatas.runtimeconfig.json
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/bin/Debug/net6.0/Bankomatas.dll
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/bin/Debug/net6.0/Bankomatas.pdb
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.csproj.AssemblyReference.cache
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.AssemblyInfoInputs.cache
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.AssemblyInfo.cs
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.csproj.CoreCompileInputs.cache
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.dll
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/refint/Bankomatas.dll
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.pdb
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/Bankomatas.genruntimeconfig.cache
+/Users/urte.balciunaitevinted.com/Projects/Bankomatas/Bankomatas/obj/Debug/net6.0/ref/Bankomatas.dll
